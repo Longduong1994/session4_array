@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60f8f6a5-3e97-47f8-8731-e0c1c964b9bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EX/Ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QrOQaMay9kAedHCmzbDV2G3scS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/IdeaProjects/Session Array/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Ex11">
+    <configuration name="Ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX.Ex10" />
+      <module name="Session Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX.Ex11" />
+      <module name="Session Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX.Ex7" />
+      <module name="Session Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX.Ex8" />
+      <module name="Session Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX.Ex9" />
+      <module name="Session Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex11" />
+        <item itemvalue="Application.Ex10" />
+        <item itemvalue="Application.Ex9" />
+        <item itemvalue="Application.Ex8" />
+        <item itemvalue="Application.Ex7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60f8f6a5-3e97-47f8-8731-e0c1c964b9bb" name="Changes" comment="" />
+      <created>1686108221712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686108221712</updated>
+      <workItem from="1686108223088" duration="4371000" />
+      <workItem from="1686119680513" duration="5441000" />
+      <workItem from="1686139221485" duration="3538000" />
+      <workItem from="1686186173418" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
